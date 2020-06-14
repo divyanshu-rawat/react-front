@@ -1,7 +1,9 @@
 {
-  "name": "react-front",
-  "version": "0.1.0",
-  "private": true,
+  "name": "Front End",
+  "version": "1.0.0",
+  "description": "FrontEnd for software architecture project.",
+  "private": false,
+  "author": "Devesh Vashishth",
   "dependencies": {
     "lodash": "^4.17.11",
     "react": "^16.7.0",
