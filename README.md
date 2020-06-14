@@ -1,6 +1,4 @@
-## Source code for the Udemy Course
-
-### [React Node Social Network from Scratch to Deployment ](https://www.udemy.com/node-react/?couponCode=GITHUB)
+## Software Architecture Project Front End.
 
 ### To run this project, do the following:
 
@@ -15,6 +13,5 @@ REACT_APP_GOOGLE_CLIENT_ID=xxxxxx.apps.googleusercontent.com
 
 ```
 cd react-front
-npm install
-npm start
+npm install && npm start
 ```
